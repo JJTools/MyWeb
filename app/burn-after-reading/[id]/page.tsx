@@ -1,4 +1,4 @@
-import ViewMessageComponent from '@/components/burn-after-reading/ViewMessageComponent';
+import ViewMessageComponent from '@/components/burn-after-reading/ViewMessageComponent.tsx';
 
 export const metadata = {
   title: '查看阅后即焚消息',
